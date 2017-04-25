@@ -1,4 +1,7 @@
-# api documentation for  [owlcarousel (v1.3.3)](https://github.com/OwlFonk/OwlCarousel)  [![npm package](https://img.shields.io/npm/v/npmdoc-owlcarousel.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-owlcarousel) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-owlcarousel.svg)](https://travis-ci.org/npmdoc/node-npmdoc-owlcarousel)
+# npmdoc-owlcarousel
+
+#### basic api documentation for  [owlcarousel (v1.3.3)](https://github.com/OwlFonk/OwlCarousel)  [![npm package](https://img.shields.io/npm/v/npmdoc-owlcarousel.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-owlcarousel) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-owlcarousel.svg)](https://travis-ci.org/npmdoc/node-npmdoc-owlcarousel)
+
 #### Owl Carousel. Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider
 
 [![NPM](https://nodei.co/npm/owlcarousel.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/owlcarousel)
@@ -50,7 +53,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.3.3"
+    "version": "1.3.3",
+    "bin": {}
 }
 ```
 
